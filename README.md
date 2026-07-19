@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/banner.png" alt="Nnachi Ikwuo Nnachi Banner" width="100%">
+</p>
+
 # Hi there, I'm Nnachi Ikwuo Nnachi 👋
 
 ## GIS Specialist | Remote Sensing & Earth Observation | Environmental Data Scientist
