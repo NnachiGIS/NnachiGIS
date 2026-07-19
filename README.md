@@ -1,25 +1,26 @@
 # Hi there, I'm Nnachi Ikwuo Nnachi 👋
 
-## GIS Specialist | Remote Sensing Analyst | Earth Observation Researcher
+## GIS Specialist | Remote Sensing & Earth Observation | Environmental Data Scientist
 
 Welcome to my GitHub!
 
-I am a GIS and Remote Sensing professional passionate about Earth Observation, environmental modelling, climate analytics, and geospatial technologies. I develop geospatial solutions using GIS, Remote Sensing, Google Earth Engine, Python, and satellite imagery to support environmental management and sustainable development.
+I am a GIS Specialist and Remote Sensing professional with over five years of experience applying geospatial technologies to environmental monitoring, climate analysis, forest assessment, and urban dynamics. My work combines Geographic Information Systems (GIS), Earth Observation, remote sensing, and cloud-based geospatial computing to support evidence-based environmental decision-making.
 
+I enjoy transforming satellite imagery and spatial data into meaningful insights through reproducible workflows, interactive dashboards, and scientific research.
 ---
 
-## 🌍 Areas of Expertise
+## 🌍 Research & Technical Interests
 
 - Geographic Information Systems (GIS)
 - Remote Sensing
 - Earth Observation
-- Spatial Analysis
-- Environmental Modelling
 - Climate Analytics
-- Land Use / Land Cover Mapping
+- Environmental Modelling
+- Spatial Data Science
 - Forest Monitoring
-- Carbon Assessment
-- Dashboard Development
+- Urban Growth Analysis
+- Geospatial Artificial Intelligence
+- Web GIS & Dashboards
 
 ---
 
@@ -27,10 +28,9 @@ I am a GIS and Remote Sensing professional passionate about Earth Observation, e
 
 ### GIS & Mapping
 
-- ArcGIS Pro
 - ArcMap
+- ArcGIS Pro
 - ArcGIS Online
-- ArcCatalog
 - QGIS
 
 ### Remote Sensing
@@ -66,22 +66,25 @@ I am a GIS and Remote Sensing professional passionate about Earth Observation, e
 
 ---
 
-## 📚 Featured Publications
+## 📚 Selected Publications
 
-- Urban Expansion and Landscape Transformation in Lokoja Metropolis (Biosphere, MDPI)
-- Forest Cover Dynamics in Okwangwo National Park (Journal of Sustainable Forestry)
-- Forest Carbon Dynamics in Nigeria
-- Integrating Traditional Ecological Knowledge into Forest Governance
+- **Urban Expansion and Landscape Transformation in Lokoja Metropolis** *(Biosphere, 2026)*
+- **Forest Cover Dynamics and Socio-Ecological Drivers in Okwangwo** *(Journal of Sustainable Forestry, 2026)*
+- **Integrating Traditional Ecological Knowledge Into Forest Governance** *(Environmental Policy and Governance 2026)*
+- **Geospatial Assessment of Forest Carbon Dynamics in Nigeria** *(Kaduna Journal of Geography, 2025)*
+
+➡️ View my complete publication record on Google Scholar and ORCID.
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
-- 🇳🇬 Nigeria Climate Dashboard
-- Urban Heat Dynamics of Enugu
-- Forest Carbon Assessment of Nigeria
-- PM₂.₅ and PM₁₀ Modelling
-- Google Earth Engine Toolbox
+- 🇳🇬 Nigeria Climate Dashboard *(In Development)*
+- 🌳 National Forest Carbon Assessment of Nigeria
+- 🛰 Urban Heat Dynamics of Enugu Metropolis
+- 🌲 Okwangwo Forest Change Analysis
+- 🌾 Desertification Monitoring in Dambatta, Kano State
+- 🌫 PM₂.₅ & PM₁₀ Spatial Modelling in Abuja
 
 ---
 
@@ -96,18 +99,7 @@ I am a GIS and Remote Sensing professional passionate about Earth Observation, e
 
 ## 🌐 Connect With Me
 
-**LinkedIn**
-
-https://www.linkedin.com/in/nnachi-nnachi-016390114/
-
-**Google Scholar**
-
-https://scholar.google.com/citations?user=aV0_MHkAAAAJ&hl=en
-
-**ORCID**
-
-https://orcid.org/0000-0002-3455-3450
-
-📧 Email:
-
-nnachiikwuo@gmail.com
+- LinkedIn: https://www.linkedin.com/in/nnachi-nnachi-016390114/
+- Google Scholar: https://scholar.google.com/citations?user=aV0_MHkAAAAJ&hl=en
+- ORCID: https://orcid.org/0000-0002-3455-3450
+- Email: nnachiikwuo@gmail.com
