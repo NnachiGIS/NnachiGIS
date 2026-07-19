@@ -7,6 +7,17 @@ I am a GIS Specialist and Remote Sensing professional with over five years of ex
 I enjoy transforming satellite imagery and spatial data into meaningful insights through reproducible workflows, interactive dashboards, and scientific research.
 ---
 
+## 🛠️ Tech Stack
+
+![ArcGIS](https://img.shields.io/badge/ArcGIS-2C7AC3?style=for-the-badge&logo=esri&logoColor=white)
+![Google Earth Engine](https://img.shields.io/badge/Google%20Earth%20Engine-4285F4?style=for-the-badge&logo=googleearth&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![QGIS](https://img.shields.io/badge/QGIS-589632?style=for-the-badge&logo=qgis&logoColor=white)
+![Remote%20Sensing](https://img.shields.io/badge/Remote%20Sensing-228B22?style=for-the-badge)
+![Earth%20Observation](https://img.shields.io/badge/Earth%20Observation-006699?style=for-the-badge)
+![Climate%20Analytics](https://img.shields.io/badge/Climate%20Analytics-009688?style=for-the-badge)
+
 ## 🌍 Research & Technical Interests
 
 - Geographic Information Systems (GIS)
