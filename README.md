@@ -2,8 +2,6 @@
 
 ## GIS Specialist | Remote Sensing & Earth Observation | Environmental Data Scientist
 
-Welcome to my GitHub!
-
 I am a GIS Specialist and Remote Sensing professional with over five years of experience applying geospatial technologies to environmental monitoring, climate analysis, forest assessment, and urban dynamics. My work combines Geographic Information Systems (GIS), Earth Observation, remote sensing, and cloud-based geospatial computing to support evidence-based environmental decision-making.
 
 I enjoy transforming satellite imagery and spatial data into meaningful insights through reproducible workflows, interactive dashboards, and scientific research.
