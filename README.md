@@ -86,6 +86,12 @@ I enjoy transforming satellite imagery and spatial data into meaningful insights
 
 ---
 
+## 📊 GitHub Statistics
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NnachiGIS&show_icons=true&theme=github_dark)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NnachiGIS&layout=compact&theme=github_dark)
+
 ## 🚀 Featured Projects
 
 - 🇳🇬 Nigeria Climate Dashboard *(In Development)*
