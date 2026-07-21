@@ -29,7 +29,7 @@
 
 ---
 
-# 👋 About Me
+# 👨‍💼 About Me
 
 I am a **GIS Specialist**, **Remote Sensing Analyst**, and **Earth Observation Scientist** with over five years of professional experience applying geospatial technologies to environmental monitoring, climate analytics, forest assessment, urban dynamics, and sustainable resource management.
 
