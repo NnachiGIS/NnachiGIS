@@ -4,6 +4,7 @@
 
 <h1 align="center">🌍 Nnachi Ikwuo Nnachi</h1>
 <h3 align="center">GIS Specialist • Remote Sensing Analyst • Earth Observation Scientist</h3>
+
 <p align="center">
   <i>Transforming Earth Observation into actionable environmental intelligence.</i>
 </p>
@@ -20,6 +21,12 @@
   </a>
   <a href="https://orcid.org/0000-0002-3455-3450">
     <img src="https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white" alt="ORCID">
+  </a>
+  <a href="https://www.youtube.com/@SpatialNnachi">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube">
+  </a>
+  <a href="https://spatialnnachi.framer.website/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website">
   </a>
 </p>
 
@@ -38,6 +45,7 @@ My work integrates Geographic Information Systems (GIS), satellite remote sensin
 ---
 
 # 🏆 Professional Highlights
+
 - 🌍 Author and co-author of peer-reviewed publications
 - 🛰 Large-scale geospatial analysis using Google Earth Engine
 - 🌳 National forest carbon and land-cover assessments
@@ -91,6 +99,7 @@ My work integrates Geographic Information Systems (GIS), satellite remote sensin
 ---
 
 # 🔭 Current Focus
+
 - 🇳🇬 Nigeria Climate Dashboard
 - 🌡 Urban Heat Dynamics of Enugu State
 - 🌳 National Forest Carbon Assessment
@@ -100,6 +109,7 @@ My work integrates Geographic Information Systems (GIS), satellite remote sensin
 ---
 
 # 📚 Selected Publications
+
 - **Urban Expansion and Landscape Transformation in Lokoja Metropolis** *(Biosphere, 2026)*
 - **Forest Cover Dynamics and Socio-Ecological Drivers in Okwangwo** *(Journal of Sustainable Forestry, 2026)*
 - **Integrating Traditional Ecological Knowledge into Forest Governance** *(Environmental Policy and Governance, 2026)*
@@ -108,6 +118,7 @@ My work integrates Geographic Information Systems (GIS), satellite remote sensin
 ---
 
 # 🚀 Featured Projects
+
 - 🇳🇬 Nigeria Climate Dashboard *(In Development)*
 - 🌳 National Forest Carbon Assessment
 - 🔥 Urban Heat Dynamics of Enugu
@@ -117,16 +128,20 @@ My work integrates Geographic Information Systems (GIS), satellite remote sensin
 ---
 
 # 📊 GitHub Statistics
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NnachiGIS&show_icons=true&theme=github_dark&hide_border=true)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NnachiGIS&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
 # 🌐 Connect With Me
+
 - 📧 **Email:** [nnachiikwuo@gmail.com](mailto:nnachiikwuo@gmail.com)
 - 💼 **LinkedIn:** [Profile](https://www.linkedin.com/in/nnachi-nnachi-016390114/)
 - 🎓 **Google Scholar:** [Profile](https://scholar.google.com/citations?user=aV0_MHkAAAAJ&hl=en)
 - 🆔 **ORCID:** [0000-0002-3455-3450](https://orcid.org/0000-0002-3455-3450)
+- ▶️ **YouTube:** [SpatialNnachi](https://www.youtube.com/@SpatialNnachi)
+- 🌐 **Website:** [spatialnnachi.framer.website](https://spatialnnachi.framer.website/)
 
 ---
 
